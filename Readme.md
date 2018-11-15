@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/CustomHeaderButtonsExample/Form1.cs)
+<!-- default file list end -->
 # How To: Add Custom Header Buttons to a DockPanel
 
 
