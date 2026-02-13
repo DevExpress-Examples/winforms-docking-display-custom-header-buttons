@@ -21,7 +21,7 @@ This example creates five custom buttons and displays them in the header (captio
 
 * [CustomHeaderButtons](https://docs.devexpress.com/WindowsForms/DevExpress.XtraBars.Docking2010.Views.Tabbed.IDocumentGroupDefaultProperties.CustomHeaderButtons)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-docking-display-custom-header-buttons&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-docking-display-custom-header-buttons&~~~was_helpful=no)
 
