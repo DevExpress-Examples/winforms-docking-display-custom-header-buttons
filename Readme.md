@@ -9,7 +9,7 @@
 
 This example creates five custom buttons and displays them in the header (caption) of a dock panel.
 
-![WinForms Docking - Display custom header buttons in a DockPanel](https://user-images.githubusercontent.com/13340473/111774628-c7ac7a80-88c0-11eb-9a56-cc3f158db54e.png)
+![WinForms Docking - Display custom header buttons in a DockPanel](dockpanel-custom-header-buttons.png)
 
 
 ## Files to Review
